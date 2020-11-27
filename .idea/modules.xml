@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/01-list/01-list.iml" filepath="$PROJECT_DIR$/01-list/01-list.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02-stack/02-stack.iml" filepath="$PROJECT_DIR$/02-stack/02-stack.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03-queue/03-queue.iml" filepath="$PROJECT_DIR$/03-queue/03-queue.iml" />
+      <module fileurl="file://$PROJECT_DIR$/04-binary-search-tree/04-binary-search-tree.iml" filepath="$PROJECT_DIR$/04-binary-search-tree/04-binary-search-tree.iml" />
+      <module fileurl="file://$PROJECT_DIR$/05-set/05-set.iml" filepath="$PROJECT_DIR$/05-set/05-set.iml" />
+      <module fileurl="file://$PROJECT_DIR$/06-AVL/06-AVL.iml" filepath="$PROJECT_DIR$/06-AVL/06-AVL.iml" />
+      <module fileurl="file://$PROJECT_DIR$/07-heap/07-heap.iml" filepath="$PROJECT_DIR$/07-heap/07-heap.iml" />
+      <module fileurl="file://$PROJECT_DIR$/08-red-black-tree/08-red-black-tree.iml" filepath="$PROJECT_DIR$/08-red-black-tree/08-red-black-tree.iml" />
+    </modules>
+  </component>
+</project>
